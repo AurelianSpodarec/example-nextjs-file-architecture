@@ -1,9 +1,9 @@
-function DashboardPageSettingsIndex() {
+function DashboardSettingIndex() {
   return (
     <div>
-      DashboardPageSettingsIndex
+      Content: Dashboard Settings
     </div>
   );
 }
 
-export default DashboardPageSettingsIndex
+export default DashboardSettingIndex

@@ -1,11 +1,11 @@
-import WebLayout from "./(web)/layout";
-import WebRoot from "./(web)/(pages)/(root)/page";
+import WebsiteLayout from "./(website)/layout";
+import WebsiteRoot from "./(website)/(pages)/(root)/page";
 
 function Root() {
   return (
-    <WebLayout>
-      <WebRoot />
-    </WebLayout>
+    <WebsiteLayout>
+      <WebsiteRoot />
+    </WebsiteLayout>
   );
 }
 

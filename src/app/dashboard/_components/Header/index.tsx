@@ -1,7 +1,7 @@
 function DashboardHeader() {
   return (
     <header>
-      Dashboard Header
+      DashboardHeader
     </header>
   );
 }

@@ -1,9 +1,9 @@
-function DashboardRoot() {
+function DashboardHomeIndex() {
   return (
     <div>
-      DashboardRoot
+      Content: Dashboard Home
     </div>
   );
 }
 
-export default DashboardRoot
+export default DashboardHomeIndex

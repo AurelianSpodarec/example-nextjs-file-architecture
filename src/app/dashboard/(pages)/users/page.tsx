@@ -1,9 +1,9 @@
-function DashboardPageUsersIndex() {
+function DashboardUserIndex() {
   return (
     <div>
-      DashboardPageUsersIndex
+      Content: Dashboard Users
     </div>
   );
 }
 
-export default DashboardPageUsersIndex
+export default DashboardUserIndex

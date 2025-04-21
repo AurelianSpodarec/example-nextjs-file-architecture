@@ -1,8 +1,8 @@
 function WebsitePageAbout() {
   return (
-    <div>
+    <>
       About Page
-    </div>
+    </>
   );
 }
 

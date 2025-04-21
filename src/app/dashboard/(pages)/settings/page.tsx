@@ -1,7 +1,7 @@
 function DashboardSettingIndex() {
   return (
     <>
-      Content: Dashboard Settings
+      <h1>Dashboard Settings</h1>
     </>
   );
 }

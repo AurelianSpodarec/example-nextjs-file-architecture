@@ -1,7 +1,7 @@
 function SectionTestimonials() {
   return (
     <section>
-      Testimonials Section
+      <h2>Testimonials Section</h2>
     </section>
   )
 }

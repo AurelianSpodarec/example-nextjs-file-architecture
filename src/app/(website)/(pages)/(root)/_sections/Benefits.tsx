@@ -1,7 +1,7 @@
 function SectionBenefits() {
   return (
     <section>
-      Benefits Section
+      <h2>Benefits Section</h2>
     </section>
   )
 }

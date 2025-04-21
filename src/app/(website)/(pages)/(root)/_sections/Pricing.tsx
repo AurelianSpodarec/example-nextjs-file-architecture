@@ -1,7 +1,7 @@
 function SectionPricing() {
   return (
     <section>
-      Pricing Section
+      <h2>Pricing Section</h2>
     </section>
   )
 }

@@ -1,7 +1,7 @@
 function WebsitePageContact() {
   return (
     <>
-      Contact Page
+      <h1>Contact Page</h1>
     </>
   );
 }

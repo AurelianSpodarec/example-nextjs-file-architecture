@@ -1,7 +1,7 @@
 function SectionFAQ() {
   return (
     <section>
-      FAQ Section
+      <h2>FAQ Section</h2>
     </section>
   )
 }

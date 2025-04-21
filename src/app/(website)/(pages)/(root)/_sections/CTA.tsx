@@ -1,7 +1,7 @@
 function SectionCTA() {
   return (
     <section>
-      CTA Section
+      <h2>CTA Section</h2>
     </section>
   )
 }

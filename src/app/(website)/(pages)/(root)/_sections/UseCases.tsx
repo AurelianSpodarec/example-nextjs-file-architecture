@@ -1,7 +1,7 @@
 function SectionUseCases() {
   return (
     <section>
-      UseCases Section
+      <h2>UseCases Section</h2>
     </section>
   )
 }

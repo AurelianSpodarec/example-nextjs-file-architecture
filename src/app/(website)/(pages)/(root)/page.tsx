@@ -10,7 +10,7 @@ import SectionCTA from "./_sections/CTA";
 function WebsitePageHome() {
   return (
     <>
-      <span>Home Page</span>
+      <h1>Home Page</h1>
       <SectionHero />
       <SectionSocialProof />
       <SectionUseCases />

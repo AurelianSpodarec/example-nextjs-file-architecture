@@ -1,7 +1,7 @@
 function SectionSocialProof() {
   return (
     <section>
-      SocialProof Section
+      <h2>SocialProof Section</h2>
     </section>
   )
 }

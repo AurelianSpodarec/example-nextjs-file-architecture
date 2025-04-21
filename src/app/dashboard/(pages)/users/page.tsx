@@ -1,7 +1,7 @@
 function DashboardUserIndex() {
   return (
     <>
-      Content: Dashboard Users
+      <h1>Dashboard Users</h1>
     </>
   );
 }

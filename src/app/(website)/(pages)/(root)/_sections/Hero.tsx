@@ -1,7 +1,7 @@
 function SectionHero() {
   return (
     <section>
-      Hero Section
+      <h2>Hero Section</h2>
     </section>
   )
 }

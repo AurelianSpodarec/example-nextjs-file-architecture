@@ -1,7 +1,7 @@
 function DashboardHomeIndex() {
   return (
     <>
-      Content: Dashboard Home
+      <h1>Dashboard Home</h1>
     </>
   );
 }

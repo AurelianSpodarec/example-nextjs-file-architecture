@@ -1,8 +1,8 @@
 function WebsiteFooter() {
   return (
-    <div>
+    <footer>
       WebsiteFooter
-    </div>
+    </footer>
   );
 }
 
